@@ -28,4 +28,3 @@ Nesse projeto você desenvolverá um feed de posts estilo Facebook. Crie um layo
 
 ## Exemplo Desenvolvido
 
-![Example](/assets/example.png)
